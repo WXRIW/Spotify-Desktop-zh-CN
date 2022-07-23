@@ -1,4 +1,3 @@
 # Spotify-Desktop-zh-CN
 
-教程：  
-https://isactiger.icu/spotify-zh_cn/
+项目转移至： https://github.com/WXRIW/Spotify-Manager
